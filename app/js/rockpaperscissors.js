@@ -104,8 +104,7 @@ function getWinner(playerMove, computerMove) {
 			
 	}
 			
-}
-		
+}		
 		
 		
 	
